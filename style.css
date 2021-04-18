@@ -1,0 +1,46 @@
+
+
+ header{
+   background-color: pink;
+ }
+
+ h1{
+   color:grey;
+   text-align:center;
+ }
+
+ nav ul li {
+   display: inline;
+   margin: 15px;
+ }
+
+ h3{
+   border: 1px solid black;
+   padding: 10px;
+   margin: 30px;
+   background-color: skyblue;
+ }
+
+ nav ul li a{
+   text-decoration:none;
+ }
+
+ main article img{
+   width:75%;
+   opacity: 1;
+   
+ }
+
+#first_P{
+  color: #79f824e3;
+}
+
+.second_p{
+  font-size: 15px;
+  color:#f0109a63 ;
+}
+
+footer{
+  text-align: center;
+  background-color: magenta;
+}
